@@ -6,7 +6,8 @@ int main() {
 
 	//StandardInOut();
 	//WhileExample();
-	ForExample();
+	//ForExample();
+	UnknownNumberOfInputs();
 
 	system("pause");
 	return 0;

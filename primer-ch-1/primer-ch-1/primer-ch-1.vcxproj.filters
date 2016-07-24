@@ -23,6 +23,9 @@
     <ClCompile Include="for-example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="unknown-num-inputs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

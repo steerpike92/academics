@@ -38,8 +38,6 @@
 // we're here only if SALESITEM_H has not yet been defined 
 #define SALESITEM_H
 
-#include "Version_test.h" 
-
 // Definition of Sales_item class and related functions goes here
 #include <iostream>
 #include <string>
@@ -50,8 +48,7 @@ class Sales_item {
 friend std::istream& operator>>(std::istream&, Sales_item&);
 friend std::ostream& operator<<(std::ostream&, const Sales_item&);
 friend bool operator<(const Sales_item&, const Sales_item&);
-friend bool 
-operator==(const Sales_item&, const Sales_item&);
+friend bool operator==(const Sales_item&, const Sales_item&);
 public:
     // constructors are explained in section 7.1.4, pages 262 - 265
     // default constructor needed to initialize members of built-in type

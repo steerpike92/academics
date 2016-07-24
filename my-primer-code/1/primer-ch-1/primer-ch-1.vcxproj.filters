@@ -26,9 +26,15 @@
     <ClCompile Include="unknown-num-inputs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sales-handling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_item.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

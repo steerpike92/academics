@@ -7,7 +7,8 @@ int main() {
 	//StandardInOut();
 	//WhileExample();
 	//ForExample();
-	UnknownNumberOfInputs();
+	//UnknownNumberOfInputs();
+	SalesHandling();
 
 	system("pause");
 	return 0;

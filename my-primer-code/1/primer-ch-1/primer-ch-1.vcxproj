@@ -112,12 +112,14 @@
   <ItemGroup>
     <ClCompile Include="for-example.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="sales-handling.cpp" />
     <ClCompile Include="standard-in-out.cpp" />
     <ClCompile Include="unknown-num-inputs.cpp" />
     <ClCompile Include="while-example.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
+    <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

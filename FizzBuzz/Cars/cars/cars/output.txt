@@ -1,0 +1,6 @@
+escalade, 5
+scion, 5
+honda, 4
+explorer, 3
+sable, 2
+fiesta, 1

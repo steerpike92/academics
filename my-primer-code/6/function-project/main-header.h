@@ -1,3 +1,5 @@
 #pragma once
 
-void Section2();
+void Section_2();
+void Section_3();
+void Section_4();

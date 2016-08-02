@@ -111,6 +111,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="section-3.cpp" />
+    <ClCompile Include="section-4.cpp" />
     <ClCompile Include="section2.cpp" />
   </ItemGroup>
   <ItemGroup>

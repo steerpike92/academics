@@ -112,10 +112,12 @@
   <ItemGroup>
     <ClInclude Include="header.h" />
     <ClInclude Include="sales-data.h" />
+    <ClInclude Include="sales-item.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sales-data.cpp" />
+    <ClCompile Include="sales-item.cpp" />
     <ClCompile Include="section-1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

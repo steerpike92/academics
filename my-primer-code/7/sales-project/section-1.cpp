@@ -1,7 +1,5 @@
 #include "header.h"
 #include "sales-data.h"
-#include <string>
-#include <iostream>
 
 void Section_1()
 {

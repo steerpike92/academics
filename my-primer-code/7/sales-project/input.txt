@@ -1,19 +1,27 @@
-Harry_Potter
+Harry Potter
 12
-19.99
+$19.99
 
-Learn_CPP
+Learn CPP
 11
-64.99
+$64.99
 
 Dune
 100
-12.99
+$12.99
 
-Sexy_SIFI
+Sexy SIFI
 52
-6.50
+$6.50
 
-Sexy_SIFI
+Sexy SIFI
 13
-4.50
+$4.50
+
+Surf Book
+1
+$0.99
+
+Cupon Book
+2
+-$1.99

@@ -1,15 +1,79 @@
+Error: divide by zero
 PROCESS INPUT
 
-Harry_Potter 12 239.88 19.99 
-Learn_CPP 11 714.89 64.99 
-Dune 100 1299.00 12.99 
-Sexy_SIFI 52 338.00 6.50 
-Sexy_SIFI 13 58.50 4.50 
+Error: divide by zero
+Name	: Harry Potter
+Units	: 12
+Tot Rev	: $239.88
+Avg sale: $19.99
+
+Error: divide by zero
+Name	: Learn CPP
+Units	: 11
+Tot Rev	: $714.89
+Avg sale: $64.99
+
+Error: divide by zero
+Name	: Dune
+Units	: 100
+Tot Rev	: $1299.00
+Avg sale: $12.99
+
+Error: divide by zero
+Name	: Sexy SIFI
+Units	: 52
+Tot Rev	: $338.00
+Avg sale: $6.50
+
+Name	: Sexy SIFI
+Units	: 13
+Tot Rev	: $58.50
+Avg sale: $4.50
+
+Error: divide by zero
+Name	: Surf Book
+Units	: 1
+Tot Rev	: $0.99
+Avg sale: $0.99
+
+Error: divide by zero
+Name	: Cupon Book
+Units	: 2
+Tot Rev	: -$3.98
+Avg sale: -$1.99
+
+no money input
 
 
 PRINT TOTALS
 
-Dune 100 1299.00 12.99 
-Harry_Potter 12 239.88 19.99 
-Learn_CPP 11 714.89 64.99 
-Sexy_SIFI 65 396.50 6.10 
+Name	: Cupon Book
+Units	: 2
+Tot Rev	: -$3.98
+Avg sale: -$1.99
+
+Name	: Dune
+Units	: 100
+Tot Rev	: $1299.00
+Avg sale: $12.99
+
+Name	: Harry Potter
+Units	: 12
+Tot Rev	: $239.88
+Avg sale: $19.99
+
+Name	: Learn CPP
+Units	: 11
+Tot Rev	: $714.89
+Avg sale: $64.99
+
+Name	: Sexy SIFI
+Units	: 65
+Tot Rev	: $396.50
+Avg sale: $6.10
+
+Name	: Surf Book
+Units	: 1
+Tot Rev	: $0.99
+Avg sale: $0.99
+

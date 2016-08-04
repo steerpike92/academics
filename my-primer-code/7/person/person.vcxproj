@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{67B16B3A-3EDE-490B-9A8C-E657483B3EDB}</ProjectGuid>
-    <RootNamespace>salesproject</RootNamespace>
+    <ProjectGuid>{FB375E96-7906-46EB-B6A0-D2C9F6423F03}</ProjectGuid>
+    <RootNamespace>person</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,17 +110,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="header.h" />
-    <ClInclude Include="money.h" />
-    <ClInclude Include="sales-data.h" />
-    <ClInclude Include="sales-item.h" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="money.cpp" />
-    <ClCompile Include="sales-data.cpp" />
-    <ClCompile Include="sales-item.cpp" />
-    <ClCompile Include="section-1.cpp" />
+    <ClInclude Include="person.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
